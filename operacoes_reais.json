@@ -1,0 +1,160 @@
+[
+  {
+    "data_entrada": "2025-04-21 02:11:25",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 87171.0,
+    "preco_entrada_futuro": 88052.4,
+    "volume_usd": 200.0,
+    "funding_rate_entrada_diario": 1.896e-05,
+    "status": "fechada"
+  },
+  {
+    "data_entrada": "2025-04-21 02:15:24",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 87307.6,
+    "preco_entrada_futuro": 88172.3,
+    "volume_usd": 1000.0,
+    "funding_rate_entrada_diario": 1.896e-05,
+    "status": "fechada"
+  },
+  {
+    "data_entrada": "2025-04-21 02:29:41",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 87345.1,
+    "preco_entrada_futuro": 88246.0,
+    "volume_usd": 200.0,
+    "funding_rate_entrada_diario": 1.896e-05,
+    "status": "fechada"
+  },
+  {
+    "data_entrada": "2025-04-21 02:35:23",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 87309.9,
+    "preco_entrada_futuro": 88185.0,
+    "volume_usd": 1000.0,
+    "funding_rate_entrada_diario": 1.896e-05,
+    "status": "fechada",
+    "preco_saida_perp": 87431.3,
+    "preco_saida_futuro": 88354.6
+  },
+  {
+    "data_entrada": "2025-04-21 03:05:13",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 87493.2,
+    "preco_entrada_futuro": 88425.2,
+    "volume_usd": 1000.0,
+    "funding_rate_entrada_diario": 1.896e-05,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-04-21 03:28:05",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 87343.5,
+    "preco_entrada_futuro": 88271.9,
+    "volume_usd": 1000.0,
+    "funding_rate_entrada_diario": 1.896e-05,
+    "funding_timestamp_entrada": 1745193600000,
+    "status": "aberta",
+    "taxa_abertura": 0.8
+  },
+  {
+    "data_entrada": "2025-04-21 03:34:16",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 87284.7,
+    "preco_entrada_futuro": 88190.3,
+    "volume_usd": 1100.0,
+    "funding_rate_entrada_diario": 1.896e-05,
+    "funding_timestamp_entrada": 1745193600000,
+    "status": "aberta",
+    "taxa_abertura": 0.88
+  },
+  {
+    "data_entrada": "2025-04-21 14:28:40",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 88171.6,
+    "preco_entrada_futuro": 89001.1,
+    "volume_usd": 200.0,
+    "funding_rate_entrada_diario": 8.377e-05,
+    "funding_timestamp_entrada": 1745222400005,
+    "status": "aberta",
+    "taxa_abertura": 0.16
+  },
+  {
+    "data_entrada": "2025-04-22 02:25:40",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 1578.25,
+    "preco_entrada_futuro": 1588.0,
+    "volume_usd": 200.0,
+    "funding_rate_entrada_diario": 0.00014417,
+    "funding_timestamp_entrada": 1745280000008,
+    "taxa_abertura": 0.16,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-04-22 02:50:29",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 1575.12,
+    "preco_entrada_futuro": 1585.03,
+    "volume_usd": 300.0,
+    "funding_rate_entrada_diario": 0.00014705,
+    "funding_timestamp_entrada": 1745280000008,
+    "taxa_abertura": 0.24,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-04-23 12:25:18",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 1809.93,
+    "preco_entrada_futuro": 1823.89,
+    "volume_usd": 300.0,
+    "funding_rate_entrada_diario": 0.00024400000000000002,
+    "funding_timestamp_entrada": 1745395200002,
+    "taxa_abertura": 0.24,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-04-23 13:03:18",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 1812.22,
+    "preco_entrada_futuro": 1826.2,
+    "volume_usd": 600.0,
+    "funding_rate_entrada_diario": 0.00024400000000000002,
+    "funding_timestamp_entrada": 1745395200002,
+    "taxa_abertura": 0.48,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-04-25 13:35:47",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 1772.75,
+    "preco_entrada_futuro": 1785.14,
+    "volume_usd": 900.0,
+    "funding_rate_entrada_diario": 0.00014371,
+    "funding_timestamp_entrada": 1745568000002,
+    "taxa_abertura": 0.72,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-04-30 17:30:32",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 1771.0,
+    "preco_entrada_futuro": 1785.36,
+    "volume_usd": 150.0,
+    "funding_rate_entrada_diario": -0.00012536,
+    "status": "aberta"
+  }
+]
