@@ -200,5 +200,15 @@
     "volume_usd": 1000.0,
     "funding_rate_entrada_diario": 0.00028717,
     "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-05-28 14:02:39",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 2651.89,
+    "preco_entrada_futuro": 2665.55,
+    "volume_usd": 150.0,
+    "funding_rate_entrada_diario": 0.00030000000000000003,
+    "status": "aberta"
   }
 ]
