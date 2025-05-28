@@ -97,7 +97,9 @@
     "funding_rate_entrada_diario": 0.00014417,
     "funding_timestamp_entrada": 1745280000008,
     "taxa_abertura": 0.16,
-    "status": "aberta"
+    "status": "fechada",
+    "preco_saida_perp": 2500.13,
+    "preco_saida_futuro": 2515.56
   },
   {
     "data_entrada": "2025-04-22 02:50:29",
@@ -133,7 +135,9 @@
     "funding_rate_entrada_diario": 0.00024400000000000002,
     "funding_timestamp_entrada": 1745395200002,
     "taxa_abertura": 0.48,
-    "status": "aberta"
+    "status": "fechada",
+    "preco_saida_perp": 2508.76,
+    "preco_saida_futuro": 2524.6
   },
   {
     "data_entrada": "2025-04-25 13:35:47",
@@ -155,6 +159,46 @@
     "preco_entrada_futuro": 1785.36,
     "volume_usd": 150.0,
     "funding_rate_entrada_diario": -0.00012536,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-05-09 14:22:35",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 103223.1,
+    "preco_entrada_futuro": 103984.8,
+    "volume_usd": 550.0,
+    "funding_rate_entrada_diario": 0.00025728000000000003,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-05-09 14:23:00",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 2342.34,
+    "preco_entrada_futuro": 2358.22,
+    "volume_usd": 550.0,
+    "funding_rate_entrada_diario": 0.00028717,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-05-09 15:49:25",
+    "symbol_perpetuo": "BTCUSDT",
+    "symbol_futuro": "BTCUSDT_250627",
+    "preco_entrada_perp": 102683.4,
+    "preco_entrada_futuro": 103480.6,
+    "volume_usd": 1000.0,
+    "funding_rate_entrada_diario": 0.00025728000000000003,
+    "status": "aberta"
+  },
+  {
+    "data_entrada": "2025-05-09 15:52:16",
+    "symbol_perpetuo": "ETHUSDT",
+    "symbol_futuro": "ETHUSDT_250627",
+    "preco_entrada_perp": 2300.88,
+    "preco_entrada_futuro": 2317.03,
+    "volume_usd": 1000.0,
+    "funding_rate_entrada_diario": 0.00028717,
     "status": "aberta"
   }
 ]

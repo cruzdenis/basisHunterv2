@@ -156,7 +156,8 @@ if modo_auto:
         countdown_placeholder.info(f"🔄 Próxima atualização automática em {mins}m {secs}s")
         time.sleep(1)
 
-    st.experimental_rerun()
+    st.rerun()
+
 else:
     st.info("⏸️ Atualização automática desativada.")
 
